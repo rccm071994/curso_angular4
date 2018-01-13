@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cyan;
+    border-block-end-color: blue;
+}
+table {
+    color: red;
+    background-color: black;
+}
